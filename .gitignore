@@ -2,8 +2,8 @@
 .idea/
 
  # IntelliJ
- out/
- target/
+ target
+ build/
 
  # Log file
  *.log
@@ -17,3 +17,6 @@
  *.tar.gz
  *.rar
 
+ #Allure report
+ .allure/
+ allure-results/
